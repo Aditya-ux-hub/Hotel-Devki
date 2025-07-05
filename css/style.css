@@ -4980,7 +4980,17 @@ quantity , .quantity_title {
 	box-shadow: 0px 30px 64px 0px rgba(0,0,0,.4);
 	position: relative;
 	z-index: 10;
+	/* padding-left: 50px !important; */
+
 	/* width: 800px !important; */
+}
+.img-height{
+	height: 500px !important;
+	/* padding-left: 50px !important; */
+}
+.img-width{
+	width: 45% !important;
+	/* height:400px !important; */
 }
 .hero-image-collge-wrap {
 	position: relative;
